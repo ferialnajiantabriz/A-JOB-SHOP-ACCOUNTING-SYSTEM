@@ -1,8 +1,4 @@
-Here is a complete and well-structured `README.md` file for your GitHub repository:
 
----
-
-```markdown
 # 🏭 Job-Shop Accounting System
 
 This repository contains an **individual project** developed for **CS-4513: Database Management Systems** (Fall 2023) at the University of Oklahoma. The project models and manages operations of a **job-shop accounting system** including customer orders, job tracking, process management, and cost accounting.
