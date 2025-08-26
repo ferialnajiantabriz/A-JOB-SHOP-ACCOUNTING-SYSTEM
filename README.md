@@ -116,7 +116,7 @@ This project is for academic use only and follows the University of Oklahoma’s
 
 ---
 
-## 📎 Acknowledgments
+## Acknowledgments
 
 Special thanks to **Dr. Le Gruenwald** for guidance and support throughout the course and project.
 
