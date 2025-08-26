@@ -1,11 +1,11 @@
 
-# 🏭 Job-Shop Accounting System
+#  Job-Shop Accounting System
 
 This repository contains an **individual project** developed for **CS-4513: Database Management Systems** (Fall 2023) at the University of Oklahoma. The project models and manages operations of a **job-shop accounting system** including customer orders, job tracking, process management, and cost accounting.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The system simulates a manufacturing environment with components such as:
 
@@ -19,7 +19,7 @@ Designed with scalability and normalization in mind, the system handles CRUD ope
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Database**: Azure SQL Database  
 - **Backend**: Java (JDBC)  
@@ -28,7 +28,7 @@ Designed with scalability and normalization in mind, the system handles CRUD ope
 
 ---
 
-## 🧱 Database Features
+##  Database Features
 
 - **Entity-Relationship (ER) Diagram**  
 - **Normalized Relational Schema**  
@@ -38,7 +38,7 @@ Designed with scalability and normalization in mind, the system handles CRUD ope
 
 ---
 
-## 📊 SQL Functionalities
+##  SQL Functionalities
 
 - Insert, update, delete, and complex select queries
 - Aggregate queries for cost/labor computation
@@ -48,7 +48,7 @@ Designed with scalability and normalization in mind, the system handles CRUD ope
 
 ---
 
-## 💻 Java Integration
+##  Java Integration
 
 - Java source code for executing SQL queries
 - JDBC setup for connecting to Azure SQL
@@ -57,7 +57,7 @@ Designed with scalability and normalization in mind, the system handles CRUD ope
 
 ---
 
-## 🌐 Web Interface
+##  Web Interface
 
 - Minimal HTML/CSS frontend
 - Supports customer listing, insertion, filtering (by category)
@@ -66,11 +66,11 @@ Designed with scalability and normalization in mind, the system handles CRUD ope
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 
-📁 JobShop-Accounting-System/
+ JobShop-Accounting-System/
 ├── sql/
 │   └── create\_tables.sql
 │   └── insert\_queries.sql
@@ -91,7 +91,7 @@ Designed with scalability and normalization in mind, the system handles CRUD ope
 
 ---
 
-## 🧪 Testing & Results
+##  Testing & Results
 
 - Queries tested in Azure SQL
 - Java program tested with different inputs and edge cases
@@ -102,7 +102,7 @@ Designed with scalability and normalization in mind, the system handles CRUD ope
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ferial Najiantabriz**  
 Email: [najiantabriz.ferial@gmail.com](mailto:najiantabriz.ferial@gmail.com)  
@@ -110,7 +110,7 @@ University of Oklahoma
 
 ---
 
-## 🧾 License
+##  License
 
 This project is for academic use only and follows the University of Oklahoma’s code of conduct and academic integrity policy.
 
